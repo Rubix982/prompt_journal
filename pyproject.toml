@@ -1,0 +1,17 @@
+[project]
+name = "prompt-journal"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+authors = [
+    { name = "saif.islam", email = "saifulislam84210@gmail.com" }
+]
+requires-python = ">=3.11"
+dependencies = []
+
+[project.scripts]
+prompt-journal = "prompt_journal:main"
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"

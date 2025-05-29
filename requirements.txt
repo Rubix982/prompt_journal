@@ -1,0 +1,6 @@
+prompt_toolkit==3.0.51
+PyYAML==6.0.2
+questionary==2.1.0
+RapidFuzz==3.13.0
+thefuzz==0.22.1
+wcwidth==0.2.13
